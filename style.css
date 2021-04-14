@@ -15,7 +15,10 @@ img {
   width: 40%;
 }
 
-nav a {
+nav {
   text-align: center;
+}
+
+nav a {
   color: grey;
 }
