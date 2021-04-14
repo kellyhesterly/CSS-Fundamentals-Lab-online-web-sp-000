@@ -38,4 +38,7 @@ featured-property p {
 #details div {
   float: left;
   display: block;
+  background-color: red;
+  text-align: center;
+  width: 25%;
 }
