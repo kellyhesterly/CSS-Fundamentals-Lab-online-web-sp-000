@@ -34,3 +34,11 @@ featured-property p {
   width: 800px;
   text-align: center;
 }
+
+details {
+  display: block;
+}
+
+details div {
+  float: left;
+}
