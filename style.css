@@ -35,10 +35,9 @@ featured-property p {
   text-align: center;
 }
 
-section ~ details {
+#details div {
+  float: left;
   display: block;
 }
 
-div {
-  float: left;
-}
+
